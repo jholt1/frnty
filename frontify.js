@@ -1,1 +1,1 @@
-document.querySelector('.ffy-markup').classList.add('ndsn');
+document.querySelector('#ffy-markup').classList.add('ndsn');
